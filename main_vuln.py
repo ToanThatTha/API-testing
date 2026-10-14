@@ -1,5 +1,4 @@
 """
-VulnShop API - BAN CO LOI (deliberately vulnerable)
 Lab phuc vu mon Bao mat he thong thong tin - CHI chay tren localhost.
 Hai lo hong duoc cai cam:
   - API5:2023 BFLA  : endpoint /admin/* chi kiem tra XAC THUC, khong kiem tra VAI TRO
